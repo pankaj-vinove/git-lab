@@ -1,0 +1,3 @@
+Steps: 
+1. Created github account and create a repo for git-lab.
+2. Clone the repo on local.
